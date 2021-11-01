@@ -1,6 +1,10 @@
 # megaboom_linux_driver
 Linux driver for Logitech Ultimate Ears Boom Speaker Monitors
 
+## Disclaimer
+Use at your own risk 
+This project is not affiliated with Logitech UE
+
 ## Methodology:
 Reverese engineer using packet USB/Bluetotth packet sniffing and spoofing from Android device
 
