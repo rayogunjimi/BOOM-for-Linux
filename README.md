@@ -1,4 +1,4 @@
-# megaboom_linux_driver
+# BOOM-for-Linux
 Linux driver for Logitech Ultimate Ears Boom Speaker Monitors
 
 ## Disclaimer
